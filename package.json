@@ -1,0 +1,21 @@
+{
+  "name": "number-chasing-game",
+  "version": "1.0.0",
+  "description": "In this Ts file i have created Number Choosing Game",
+  "main": "index.C",
+  "type": "module",
+  "bin": "main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhunesh Kumar",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.20",
+    "main.js": "^0.0.1",
+    "npm": "^10.5.2"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
